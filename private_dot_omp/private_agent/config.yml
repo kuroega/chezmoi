@@ -1,0 +1,44 @@
+setupVersion: 2
+modelRoles:
+  default: openai-codex/gpt-5.6-terra:medium
+  tiny: openai-codex/gpt-5.6-luna:low
+  slow: openai-codex/gpt-5.6-sol:high
+  advisor: openai-codex/gpt-5.6-sol:high
+  smol: openai-codex/gpt-5.6-luna:medium
+  plan: openai-codex/gpt-5.6-sol:high
+advisor:
+  enabled: false
+dev:
+  autoqaConsent: granted
+composer:
+  shape: pi
+completion:
+  notify: on
+ask:
+  notify: on
+error:
+  notify: on
+theme:
+  dark: dark-arctic
+colorBlindMode: true
+symbolPreset: nerd
+statusLine:
+  preset: ascii
+  separator: powerline-thin
+  compactThinkingLevel: true
+  sessionAccent: true
+  transparent: true
+terminal:
+  showImages: true
+  showProgress: true
+tui:
+  textSizing: true
+  titleState: true
+  hyperlinks: auto
+  imeSafeCursor: true
+  codexResetFireworks: true
+  renderMermaid: true
+display:
+  shimmer: classic
+  cacheMissMarker: true
+  smoothStreaming: true

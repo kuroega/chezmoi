@@ -1,0 +1,16 @@
+# Runtime state and generated data
+logs/
+run/
+cache/
+agent/*.db
+agent/*.db-*
+agent/sessions/
+agent/terminal-sessions/
+agent/last-changelog-version
+agent/*.lock
+autoqa.db
+install-id
+gpu_cache.json
+/agent/blobs
+/natives/18.0.3
+/puppeteer
