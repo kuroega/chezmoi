@@ -1,1 +1,3 @@
-font-family = "Aporetic Sans Mono"
+theme = Xcode Light
+cursor-color = #191919
+font-family = Menlo
