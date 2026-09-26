@@ -10,7 +10,10 @@ This repository contains my personal dotfiles, managed by [chezmoi](https://chez
 - **fish**: `~/.config/fish/`
 - **ghostty**: `~/.config/ghostty/`
 - **nvim**: `~/.config/nvim/`
+- **pi**: `~/.pi/agent/settings.json`, reference-paper theme and customization
 - **tmux**: `~/.tmux.conf`
+
+Pi credentials (`auth.json`), model caches, installed binaries, package checkouts, backups, and portable archives are intentionally not managed. The Pi customization path in `settings.json` is templated for the target home directory.
 
 ## Usage
 
