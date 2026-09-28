@@ -31,7 +31,7 @@
     "searchMatchBg": "search",
     "searchMatchText": "strong",
     "userMessageBg": "paper",
-    "userMessageText": "ink",
+    "userMessageText": "#5c7690",
     "customMessageBg": "paper",
     "customMessageText": "ink",
     "customMessageLabel": "strong",
