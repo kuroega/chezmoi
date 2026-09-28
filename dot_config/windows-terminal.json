@@ -1,0 +1,48 @@
+{
+  "$schema": "https://aka.ms/terminal-profiles-schema",
+  "profiles": {
+    "defaults": {
+      "colorScheme": "Reference Paper",
+      "font": {
+        "face": "SF Mono",
+        "size": 11
+      }
+    },
+    "list": [
+      {
+        "colorScheme": "Reference Paper",
+        "commandline": "%SystemRoot%\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "font": {
+          "face": "SF Mono"
+        },
+        "guid": "{61c54bbd-c2c6-5271-96e7-009a87ff44bf}",
+        "name": "Windows PowerShell"
+      }
+    ]
+  },
+  "schemes": [
+    {
+      "background": "#FFFFFF",
+      "black": "#262626",
+      "blue": "#666666",
+      "brightBlack": "#A6A6A6",
+      "brightBlue": "#4D4D4D",
+      "brightCyan": "#808080",
+      "brightGreen": "#4D4D4D",
+      "brightPurple": "#808080",
+      "brightRed": "#4D4D4D",
+      "brightWhite": "#FFFFFF",
+      "brightYellow": "#666666",
+      "cursorColor": "#262626",
+      "cyan": "#808080",
+      "foreground": "#262626",
+      "green": "#666666",
+      "name": "Reference Paper",
+      "purple": "#808080",
+      "red": "#666666",
+      "selectionBackground": "#D9D9D9",
+      "white": "#F2F2F2",
+      "yellow": "#666666"
+    }
+  ]
+}

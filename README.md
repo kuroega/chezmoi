@@ -9,6 +9,7 @@ This repository contains my personal dotfiles, managed by [chezmoi](https://chez
 - **kitty**: `~/.config/kitty/`
 - **fish**: `~/.config/fish/`
 - **ghostty**: `~/.config/ghostty/`
+- **Windows Terminal**: `~/.config/windows-terminal.json` (Reference Paper scheme and PowerShell profile defaults)
 - **nvim**: `~/.config/nvim/`
 - **pi**: `~/.pi/agent/settings.json`, reference-paper theme and customization
 - **tmux**: `~/.tmux.conf`
