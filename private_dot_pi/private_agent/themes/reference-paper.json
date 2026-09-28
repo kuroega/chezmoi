@@ -4,6 +4,7 @@
   "vars": {
     "paper": "#ffffff",
     "ink": "#262626",
+    "silverBlueInk": "#5c7690",
     "strong": "#171717",
     "muted": "#737373",
     "dim": "#a3a3a3",
@@ -31,7 +32,7 @@
     "searchMatchBg": "search",
     "searchMatchText": "strong",
     "userMessageBg": "paper",
-    "userMessageText": "#5c7690",
+    "userMessageText": "silverBlueInk",
     "customMessageBg": "paper",
     "customMessageText": "ink",
     "customMessageLabel": "strong",
