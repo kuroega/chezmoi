@@ -1,0 +1,5 @@
+{
+  "$schema": "https://opencode.ai/tui.json",
+  "theme": "reference-paper",
+  "plugin": ["./herdr-tui-session.js"]
+}
